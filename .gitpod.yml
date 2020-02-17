@@ -1,5 +1,4 @@
-image:
-  file: .gitpod.Dockerfile
+image: jelaniwoods/appdev-winter-20-photogram-signin
 
 tasks:
   - init: bin/setup
